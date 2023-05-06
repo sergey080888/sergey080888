@@ -12,3 +12,8 @@
 - <a href="https://github.com/sergey080888/sertificats/blob/main/dj.jpeg">Django</a>
 - <a href="https://github.com/sergey080888/sertificats/blob/main/sql.jpeg">SQL</a>
 - <a href="https://github.com/sergey080888/sertificats/blob/main/git.jpeg">GIT</a>
+
+
+##Диплом
+	https://github.com/sergey080888/sertificats/blob/main/photo_2023-05-03_20-13-15.jpg?raw=true
+<img src="https://github.com/sergey080888/sertificats/blob/main/photo_2023-05-03_20-13-15.jpg?raw=true" alt="diplom" width="1024" height="683">
