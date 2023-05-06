@@ -8,7 +8,7 @@
 - SQL <a href="https://github.com/sergey080888/hw4"> Пример работ </a>
 
 ## Сертификаты Нетологии:
-- Python 
-- Django
-- SQL
-- GIT
+
+- <a href="https://github.com/sergey080888/sertificats/blob/main/dj.jpeg">Django</a>
+- <a href="https://github.com/sergey080888/sertificats/blob/main/sql.jpeg">SQL</a>
+- <a href="https://github.com/sergey080888/sertificats/blob/main/git.jpeg">GIT</a>
