@@ -18,3 +18,6 @@
 ## Диплом
 
 <img src="https://github.com/sergey080888/sertificats/blob/main/photo_2023-05-03_20-13-15.jpg?raw=true" alt="diplom" >
+
+## Резюме
+- <a href="https://docs.google.com/document/d/1IeWfItEioEu9gogbCLbqDv-fVFceR9Rgbe5ClAImnxA/edit#">Sergey Kovalsky</a>
