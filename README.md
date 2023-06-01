@@ -2,8 +2,8 @@
 #### Я являюсь дипломированным специалистом в области Python-разработки
 
 ## Вот что я умею:
-- Python <a href="https://github.com/sergey080888/python-final-diplom/"> Репозиторий с дипломной работой </a>
-- Django <a href="https://github.com/sergey080888/homeworks/tree/video"> Домашние работы по курсу Django </a>
+- Python <a href="https://github.com/sergey080888?tab=repositories">Мои репозитории</a>
+- Django <a href="https://github.com/sergey080888/python-final-diplom/"> Репозиторий с дипломной работой </a>
 - Flask, Asyncio, Aiohttp <a href="https://github.com/sergey080888/flask"> Примеры в репозитории </a>
 - SQL <a href="https://github.com/sergey080888/hw4"> Пример работ </a>
 - Docker 
