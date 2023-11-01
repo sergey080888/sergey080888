@@ -6,7 +6,7 @@
 - Django <a href="https://github.com/sergey080888/python-final-diplom/"> Репозиторий с дипломной работой </a>
 - Flask, Asyncio, Aiohttp <a href="https://github.com/sergey080888/flask"> Примеры в репозитории </a>
 - SQL <a href="https://github.com/sergey080888/hw4"> Пример работ </a>
-- No
+- NoSQL(MongoDb)
 - Docker 
 
 ## Диплом
