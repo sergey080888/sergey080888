@@ -7,7 +7,7 @@
 - Flask, Asyncio, Aiohttp <a href="https://github.com/sergey080888/flask"> Примеры в репозитории </a>
 - SQL <a href="https://github.com/sergey080888/hw4"> Пример работ </a>
 - NoSQL(MongoDb)
-- Docker 
+- Docker, docker-compose
 
 ## Диплом
 
