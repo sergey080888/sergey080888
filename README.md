@@ -21,7 +21,7 @@
 - <a href="https://github.com/sergey080888/sertificats/blob/main/git.jpeg">GIT</a>
 
 ## Сертификат VK:
-- <a href="https://github.com/sergey080888/sertificats/blob/main/dj.jpeg">Python</a>
+- <a href="https://cloud.mail.ru/public/Dywm/t3qmyAcem">Python</a>
 
 
 
