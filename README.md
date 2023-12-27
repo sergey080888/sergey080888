@@ -20,6 +20,11 @@
 - <a href="https://github.com/sergey080888/sertificats/blob/main/sql.jpeg">SQL</a>
 - <a href="https://github.com/sergey080888/sertificats/blob/main/git.jpeg">GIT</a>
 
+## Сертификат VK:
+- <a href="https://github.com/sergey080888/sertificats/blob/main/dj.jpeg">Python</a>
+
+
+
 
 ## Резюме
 - <a href="https://docs.google.com/document/d/1IeWfItEioEu9gogbCLbqDv-fVFceR9Rgbe5ClAImnxA/edit#">Sergey Kovalsky</a>
