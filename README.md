@@ -8,6 +8,9 @@
 - SQL <a href="https://github.com/sergey080888/hw4"> Пример работ </a>
 - NoSQL(MongoDb)
 - Docker, docker-compose
+- Работа с ClickHouse
+- Apache AirFlow
+- Apache Superset
 
 ## Диплом
 
